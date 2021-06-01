@@ -35,7 +35,7 @@ Get your API key for free and without hassle from the [Abstact website](https://
 
 ## Quickstart
 
-### Verify email
+### Get exchange rates
 
 ```php
 <?php
